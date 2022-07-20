@@ -1,0 +1,22 @@
+꧁INFORMACIÓN꧂
+__________________(✪)__________________
+
+🤖Bot de descargas gratis SpeedUpload en su version 2.0 Plus⚜️...
+📖Uso: Descargar archivos de internet mediante enlaces de descarga directa...
+💻Desarrollador: @TuguerX
+
+Que es lo que puede hacer este bot de descargas gratis???
+
+𝟷-Interfaz y textos modificados.
+𝟸-Ver el token de la nube configurada.
+𝟹-Puede subir a: evidence, draft, blog, perfil, calendar.
+𝟺-Añadir 1 o más administradores al bot.
+𝟻-Añadir usuarios en modo de prueba.
+𝟼-Ver el proxy que estas usando en el bot.
+𝟽-Quitar el proxy añadido al bot.
+𝟾-En el comando files los nombres de los archivos con su enlace directo para descargar.
+𝟿-Se han correjido los comandos no funcionales.
+10-Se ha arreglado el error de las subidas de algunas nubes.
+𝟷1-Ver si eres administrador o usuario del bot
+
+Estos son todas las ventajas añadidas a este bot, todos los errores han sido corregidos en esta version 2.0, si tienes algun error o el bot ha tenido un bug por favor  notificamelo: @TuguerX

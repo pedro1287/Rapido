@@ -1,0 +1,103 @@
+ ✪APRENDE A USAR EL BOT✪
+◆ ▬▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬▬ ◆
+/about - Comando para ver información sobre el bot.
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/commands - Comando para añadir menú de acceso rápido a su bot.
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/admin - Comando para añadir acceso de administrador del bot a un usuario.
+Ejemplo:
+/admin TuguerX
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/add - Comando para añadir acceso de usuario al bot.
+Ejemplo:
+/add TuguerX
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/preview - Comando para añadir un usuario al bot en modo prueba: no puede hacer ni subir nada, solamente observar el bot.
+Ejemplo:
+/preview TuguerX
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/ban - Comando para banear/quitar acceso completamente sobre el bot a un usuario.
+Ejemplo:
+/ban TuguerX
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/useradm - Comando para saber si es admin o usuario del bot y su poder sobre el mismo.
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/myuser - Comando para echarle un vistazo a la configuración actual.
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/acc - Comando para configurar Usuario y Contraseña.
+Ejemplo: /acc gamer.87
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/host - Comando para establecer el Host del moodle o la nube.
+Ejemplo:
+/host https://eduvirtual.uho.edu.cu/
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/token - Comando para mostrar el token de la cuenta moodle actual.
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/zips - Comando para establecer el tamaño maximo por archivos.
+Este comando sirve cuando su nube por ejemplo es de 50 mb por archivo y usted quiere subir algo de 200 MiB pues el Bot parte el archivo en partes de 50 MiB y las sube.
+Se usa pasando un número detrás del comando
+Ejemplo:
+/zips 50
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/repo - Comando para configurar el Repo ID del host
+Se usa pasando el id detrás del comando, el ID va del número 2 al 6.
+Ejemplo:
+/repo 5
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/cloud - Comando para cambiar de modo de nube (moodle o cloud) predeterminada mente está en modo moodle.
+Ejemplo:
+/cloud moodle
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/dir - Comando para establecer a que carpeta de la nube se subira.
+Se usa pasando el nombre del directorio detrás del comando.
+Ejemplo:
+/dir descargas
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/uptype - Comando para configurar que tipo de subida a moodle.
+existen 5 maneras: 
+/uptype draft
+/uptype blog 
+/uptype evidence 
+/uptype calendar
+/uptype perfil
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/files - Comando para ver los archivos dentro de la nube.
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/txt_ - Comando para descargar archivo correspondiente con el número que le sigue.
+Ejemplo
+/txt_2
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/del_ - Comando para eliminar de la nube un archivo correspondiente con el número que le sigue.
+Ejemplo:
+/del_2
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/delall - Comando para eliminar todos los archivos de la nube (evidence), solo funciona con algunas.
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/proxy - Comando para establecer proxy en el bot.
+Se usa pasando el proxy claramente encriptado detrás del comando.
+Ejemplo:
+/proxy socks5://HJLSIAEPFHUIFLSKSHSAVFMJWF
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/off_proxy - Comando para deseuipar el proxy actual del bot.
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/cript - Comando para encriptar su proxy sino lo está.
+Ejemplo:
+/cript (y el proxy no encriptado)
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/decript - Comando para desencriptar el proxy si lo está. 
+Ejemplo:
+/decript (y el proxy encriptado)
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/view_proxy - Comando para ver el proxy establecido actualmente.
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/encript_on - Configurar para activar encriptado no disponible en los enlaces de descarga.
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/encript_off - Configurar para desactivar encriptado.
+ ࿇══━━━━━━✥◈✥━━━━━━━══࿇
+/help - Comando para mostrar la ayuda disponible del Bot.
+
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+ Para extraer los enlaces de descarga directa de algún archivo de Telegram puede usar el bot @tg_file_link_bot o @Link4FilesBot, también para extraer enlaces de descarga de ciertos sitios de internet puede usar @DirectLinkGeneratorbot...
+ El bot descarga archivos de muchos sitios de internet sólo es cuestión de enviarle enlaces de descargas directas...
+
+◆ ▬▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬▬ ◆
